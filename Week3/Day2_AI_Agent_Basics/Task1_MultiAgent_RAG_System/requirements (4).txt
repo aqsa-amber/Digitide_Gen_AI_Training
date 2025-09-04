@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-groq
+chromadb
+sentence-transformers
+langchain-community
+pysqlite3-binary
+langchain-chroma 
